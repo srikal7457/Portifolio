@@ -161,6 +161,8 @@ a {
     .logo {
         display: none;
     }
+    .para {font-size: xx-small;
+    }
 }
 .contact-image {
     background-color: whitesmoke;
